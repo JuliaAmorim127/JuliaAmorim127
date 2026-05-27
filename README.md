@@ -3,6 +3,7 @@
 ### Cursos:
 <!--
 [<img src="url imagem" height="50"></a>](url acesso)
+&nbsp;
 [<img src="url imagem" height="50"></a>](url acesso)
 
 **JuliaAmorim127/JuliaAmorim127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
