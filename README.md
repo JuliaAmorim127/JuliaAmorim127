@@ -1,8 +1,10 @@
 ## Júlia Gomes Amorim - JuliaAmorim127
 
--Cursos:
+### Cursos:
 <!--
 [<img src="url imagem" height="50"></a>](url acesso)
+[<img src="url imagem" height="50"></a>](url acesso)
+
 **JuliaAmorim127/JuliaAmorim127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
